@@ -42,3 +42,8 @@ For a given RTL design, the system predicted:
 A negative value suggests that the prediction is very close to zero, meaning the system detects a minimal or no significant violation in this specific test case.
 This reinforces the precision and reliability of the model in estimating actual timing constraints.
 
+
+https://github.com/user-attachments/assets/a3220796-0d42-433b-9c4a-3b9e9c0562d1
+
+
+
