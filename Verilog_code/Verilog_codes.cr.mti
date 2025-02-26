@@ -1,0 +1,99 @@
+C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_SR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_SR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_SR
+
+Top level modules:
+	testbench_SR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_OR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_OR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_OR
+
+Top level modules:
+	test_module_OR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_NOR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_NOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_NOR
+
+Top level modules:
+	testbench_NOR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_NAND.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_NAND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_NAND
+
+Top level modules:
+	testbench_NAND
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_SR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_SR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_SR
+
+Top level modules:
+	test_module_SR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_DFF.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_DFF
+
+Top level modules:
+	test_module_DFF
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_XOR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_XOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_XOR
+
+Top level modules:
+	test_module_XOR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_NAND.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_NAND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_NAND
+
+Top level modules:
+	test_module_NAND
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_AND.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_AND
+
+Top level modules:
+	test_module_AND
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_DFF.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_DFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_DFF
+
+Top level modules:
+	testbench_DFF
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_XOR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_XOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_XOR
+
+Top level modules:
+	testbench_XOR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_OR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_OR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_OR
+
+Top level modules:
+	testbench_OR
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_AND.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/testbench_AND.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench_AND
+
+Top level modules:
+	testbench_AND
+
+} {} {}} C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_NOR.v {1 {vlog -work work -stats=none C:/Users/saksh/Downloads/main.m/Verilog_code/test_module_NOR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module test_module_NOR
+
+Top level modules:
+	test_module_NOR
+
+} {} {}}

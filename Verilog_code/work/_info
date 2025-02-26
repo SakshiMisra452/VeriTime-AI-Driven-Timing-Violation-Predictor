@@ -1,0 +1,344 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saksh/Downloads/main.m/Verilog_code
+vtest_module
+Z1 !s110 1740486412
+!i10b 1
+!s100 ;5ocA7E5XF2nE[>cNCA]i3
+IlkHk:AI5^7AP[dl>hHQcA0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1740336657
+8test_module.v
+Ftest_module.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1740486412.000000
+Z5 !s107 testbench_XOR.v|testbench_SR.v|testbench_OR.v|testbench_NOR.v|testbench_NAND.v|testbench_DFF.v|testbench_AND.v|testbench.v|test_module_XOR.v|test_module_SR.v|test_module_OR.v|test_module_NOR.v|test_module_NAND.v|test_module_DFF.v|test_module_AND.v|test_module.v|
+Z6 !s90 -reportprogress|300|test_module.v|test_module_AND.v|test_module_DFF.v|test_module_NAND.v|test_module_NOR.v|test_module_OR.v|test_module_SR.v|test_module_XOR.v|testbench.v|testbench_AND.v|testbench_DFF.v|testbench_NAND.v|testbench_NOR.v|testbench_OR.v|testbench_SR.v|testbench_XOR.v|
+!i113 1
+Z7 tCvgOpt 0
+vtest_module_AND
+R1
+!i10b 1
+!s100 @_a4:WTADTRo>a1hJb`Pm0
+IkRMIQjW_]gF4b@KooXZ?k1
+R2
+R0
+w1740482925
+8test_module_AND.v
+Ftest_module_AND.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@a@n@d
+vtest_module_DFF
+R1
+!i10b 1
+!s100 FlLX3`7:JlR63^H=JfEN60
+IZBK9a=gGV?B3n^0KAmn=b2
+R2
+R0
+w1740483084
+8test_module_DFF.v
+Ftest_module_DFF.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@d@f@f
+vtest_module_NAND
+R1
+!i10b 1
+!s100 @ISYXN_ok:f0SWnTLWN5M2
+I?LC<C9mlkbNZ`HAlC1]HX3
+R2
+R0
+w1740483027
+8test_module_NAND.v
+Ftest_module_NAND.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@n@a@n@d
+vtest_module_NOR
+R1
+!i10b 1
+!s100 Xna1iCTFld2hhgR9k1EcU3
+I?Y?hh_cVk:VDoZdG=5W_`1
+R2
+R0
+w1740483050
+8test_module_NOR.v
+Ftest_module_NOR.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@n@o@r
+vtest_module_OR
+R1
+!i10b 1
+!s100 5cBjl]I;U9dGl>G;bgRXA2
+Ib91_`Hl6nLVg2BIP5M[6_1
+R2
+R0
+w1740482963
+8test_module_OR.v
+Ftest_module_OR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@o@r
+vtest_module_SR
+R1
+!i10b 1
+!s100 4[YkQ1`iANRlSF=0Woj<=1
+Icif3;U?56PfK^RUOXSMjg1
+R2
+R0
+w1740483106
+8test_module_SR.v
+Ftest_module_SR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@s@r
+vtest_module_XOR
+R1
+!i10b 1
+!s100 A4:61]5hKI7h>?E3P[_4`2
+IRVbbhV5Mf3AkLHoo=_OzG2
+R2
+R0
+w1740482990
+8test_module_XOR.v
+Ftest_module_XOR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntest_module_@x@o@r
+vtestbench
+R1
+!i10b 1
+!s100 jzYlFA0Pe1NBX[9:>eXTG0
+IXTId8iYo=UD<<TSjekPzM2
+R2
+R0
+w1740422210
+8testbench.v
+Ftestbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtestbench_AND
+R1
+!i10b 1
+!s100 ;ZWb;BFmKnZF2jZWMX_Vb0
+I^3RkE=7>5oXESSF@UA?^21
+R2
+R0
+w1740486349
+8testbench_AND.v
+Ftestbench_AND.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@a@n@d
+vtestbench_DFF
+R1
+!i10b 1
+!s100 c^M@kQGT:;3eTS<J:F5Vd1
+Ij04bUmNcPiOYN6@CIgbnn1
+R2
+R0
+w1740484240
+8testbench_DFF.v
+Ftestbench_DFF.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@d@f@f
+vtestbench_NAND
+R1
+!i10b 1
+!s100 9G3W:Y`;`M9]KhUIHcNbH1
+Ic78HB@>ReFm?;VW<Je81m3
+R2
+R0
+w1740483737
+8testbench_NAND.v
+Ftestbench_NAND.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@n@a@n@d
+vtestbench_NOR
+R1
+!i10b 1
+!s100 E@h8SIo=b4R7bC1nFV=fk2
+IP1Hk[^0M=lD8C8z`NS`Bo2
+R2
+R0
+w1740484250
+8testbench_NOR.v
+Ftestbench_NOR.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@n@o@r
+vtestbench_OR
+R1
+!i10b 1
+!s100 9>P1f2D6Ol84`SKn2g<YS1
+IaM7Ka=m@=_FMgG9<n2A[Q1
+R2
+R0
+w1740483552
+8testbench_OR.v
+Ftestbench_OR.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@o@r
+vtestbench_SR
+R1
+!i10b 1
+!s100 Y_7:h=5iG;Kol;OS2LeeN0
+IbfjXl_Fa[nEObl^j]_ReB2
+R2
+R0
+w1740484382
+8testbench_SR.v
+Ftestbench_SR.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@s@r
+vtestbench_XOR
+R1
+!i10b 1
+!s100 ?MC@iNYISlP11OoRVO4`B2
+IBGg=JgYn<aaoQn1ScO]Fm2
+R2
+R0
+w1740483638
+8testbench_XOR.v
+Ftestbench_XOR.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ntestbench_@x@o@r
